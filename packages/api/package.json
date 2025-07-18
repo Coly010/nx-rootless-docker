@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "nx": {
+    "root": "packages/api",
+    "targets": {
+      "docker:build": {
+        "command": "docker build ."
+      }
+    }
+  }
+}

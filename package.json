@@ -6,11 +6,11 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
-    "@nx/js": "0.0.0-pr-31634-cb74636",
+    "@nx/js": "21.2.4",
     "@swc-node/register": "~1.9.1",
     "@swc/core": "~1.5.7",
     "@swc/helpers": "~0.5.11",
-    "nx": "0.0.0-pr-31634-cb74636",
+    "nx": "21.2.4",
     "tslib": "^2.3.0",
     "typescript": "~5.8.2"
   },
